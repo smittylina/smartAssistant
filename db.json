@@ -5,7 +5,7 @@
         "expectedAnswer": "Blau",
         "capturedAnswer": "die Farbe des Himmels ist blau",
         "language": "de",
-        "smartAssistant": ["Siri"]
+        "smartAssistant": "siri"
         }
     ]
   }
