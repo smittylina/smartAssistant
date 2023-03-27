@@ -1,1 +1,9 @@
-
+{
+  "enteredQuestion": "FWelche Farbe hat der Himmel?",
+  "expectedAnswer": "Blau",
+  "smartAssistant": [
+    "alexa"
+  ],
+  "language": "de",
+  "capturedAnswer": "die Farbe des Himmels ist blau"
+}
