@@ -1,6 +1,10 @@
-{ "experiment": [
-    "enteredQuestion": "Welche Farbe hat der Himmel?",
-    "expectedAnswer": "Blau",
-    "capturedAnswer": "die Farbe des Himmels ist blau",
-    "language": "de" ]
+{ 
+    "experiment": [
+        {
+        "enteredQuestion": "Welche Farbe hat der Himmel?",
+        "expectedAnswer": "Blau",
+        "capturedAnswer": "die Farbe des Himmels ist blau",
+        "language": "de" 
+        }
+    ]
   }
